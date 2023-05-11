@@ -1,4 +1,5 @@
 body {
+  background-color: black;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -11,3 +12,60 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbar{
+  background-color: plum !important;
+  font-size: large !important;
+}
+
+
+
+.cart{
+  color: whitesmoke !important;
+}
+
+h1 {
+  color: gray;
+}
+
+/*---Cards-----*/
+
+.ListGroup{
+  display:flex;
+  justify-content: center;
+}
+
+.ItemHeader{
+  color: lightgray;
+}
+
+
+
+.Info{
+  color: lightgray;
+}
+
+.Option{
+  border-color: palevioletred;
+  background-color: pink;
+}
+
+/*----Boton carrito------*/
+
+.Button{
+  border-color: palevioletred;
+  background-color: palevioletred;
+}
+
+/*----Contador------*/
+
+.Number{
+  color:whitesmoke;
+}
+
+.Button-sign{
+  background-color: grey;
+}
+
+
+
